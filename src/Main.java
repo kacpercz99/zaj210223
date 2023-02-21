@@ -83,8 +83,8 @@ public class Main {
     public static void zad2() {
         List<Passenger> passengerList =
                 Arrays.asList(
-                        new Passenger("Kacper", "Czura", 23),
-                        new Passenger("Kamil", "Baryla", 67),
+                        new Passenger("Kacper", "Hehe", 23),
+                        new Passenger("Kamil", "Konstanty", 67),
                         new Passenger("Jakis", "Pasazer", 69)
                 );
         System.out.println(passengerList);
